@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sai Teja</h1>
-<h3 align="center">A Developer from India and working on MERN, Machine Learning and Deep Learning.</h3>
+<h3 align="center">A Developer working on MERN, Machine Learning and Deep Learning.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saiteja1290&label=Profile%20views&color=0e75b6&style=flat" alt="saiteja1290" /> </p>
 
