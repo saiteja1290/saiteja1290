@@ -1,15 +1,6 @@
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saiteja1290&label=Profile%20views&color=0e75b6&style=flat" alt="saiteja1290" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saiteja1290" alt="saiteja1290" /></a> </p>
-
-- 👨‍💻 All of my projects are available at [https://realprotfolio.vercel.app](https://realprotfolio.vercel.app)
-
-- 💬 Ask me about **MongoDB, Express, React, Node, Tensorflow**
-
 - 📫 How to reach me **saiteja.palegar@gmail.com**
-
+- Twitter @SaiTeja1290
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sai-teja-palegarthuli-521a63292/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sai-teja-palegarthuli-521a63292/" height="30" width="40" /></a>
